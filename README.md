@@ -1,6 +1,13 @@
 <img src="/coder.gif" width="100%"/>
-# 💫 About Me:
-🔭 I’m currently working on React.js.<br>🍁 I’m currently learning Vite.js.<br>🤝 I’m looking to collaborate with Web developers.<br>🤔 I’m looking for help with making production level frontend.<br>💬 Ask me about React.js, Java and JavaScript.<br>😄 Pronouns: She/Her.<br>⚡ Fun fact:  I love to try newly launched technologies.
+
+## 💫 About Me:
+- 🔭 I’m currently working on React.js.
+- 🍁 I’m currently learning Vite.js.
+- 🤝 I’m looking to collaborate with Web developers.
+- 🤔 I’m looking for help with making production level frontend.
+- 💬 Ask me about React.js, Java and JavaScript.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact:  I love to try newly launched technologies.
 
 
 ## 🌐 Socials:
