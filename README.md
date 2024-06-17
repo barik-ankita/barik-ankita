@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 - 🔭 I’m currently working on React.js.
-- 🍁 I’m currently learning Vite.js.
+- 🍁 I’m currently learning Next.js.
 - 🤝 I’m looking to collaborate with Web developers.
 - 🤔 I’m looking for help with making production level frontend.
 - 💬 Ask me about React.js, Java and JavaScript.
